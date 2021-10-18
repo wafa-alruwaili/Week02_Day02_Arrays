@@ -9,7 +9,7 @@ Create a file named practice.js to save your solutions.
 
   		// your code here
 
-		numbers; // => [8, 18, 14, 4, 2, 16]
+		numbers; // => [4, 18, 14, 2, 2, 8]
 
 2- 	Change all even numbers to be those numbers multiplied by two:
 
